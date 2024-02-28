@@ -1,0 +1,36 @@
+#container{
+    width: 1400px;
+    border: none;
+    display: grid;
+    grid-template-columns: 55% 55%;
+    margin:auto ;
+
+
+}
+.container{
+    padding-left: 110px;
+    border-left: solid magenta 5px;
+
+}
+.output{
+    border-radius: 40px;
+    width: 80%;
+    padding: 10px 20px;
+}
+.line{
+    color: royalblue;
+    text-align: center;
+}
+#end{
+    background-color: violet;
+    width: 70%;
+    color: black;
+    padding: 10px 20px;
+}
+.words{
+    margin-right: 12px;
+    display: inline-table;width:35%;
+}
+#draft{
+width: 700px;
+}
